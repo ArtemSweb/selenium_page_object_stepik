@@ -1,0 +1,4 @@
+# игнорим все!
+.pytest_cache
+
+__pycache__/
